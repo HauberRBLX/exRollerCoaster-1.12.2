@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "inventory": { "model": "erc:railbranch" },
+    "meta=0": { "model": "erc:railbranch" },
+    "meta=1": { "model": "erc:railbranch", "x": 180 },
+    "meta=2": { "model": "erc:railbranch", "x": 90, "y": 180 },
+    "meta=3": { "model": "erc:railbranch", "x": 90 },
+    "meta=4": { "model": "erc:railbranch", "x": 90, "y": 90 },
+    "meta=5": { "model": "erc:railbranch", "x": 90, "y": 270 },
+    "meta=6": { "model": "erc:railbranch" },
+    "meta=7": { "model": "erc:railbranch" },
+    "meta=8": { "model": "erc:railbranch" },
+    "meta=9": { "model": "erc:railbranch" },
+    "meta=10": { "model": "erc:railbranch" },
+    "meta=11": { "model": "erc:railbranch" },
+    "meta=12": { "model": "erc:railbranch" },
+    "meta=13": { "model": "erc:railbranch" },
+    "meta=14": { "model": "erc:railbranch" },
+    "meta=15": { "model": "erc:railbranch" }
+  }
+}

@@ -1,4 +1,4 @@
-# ExRollerCoaster : Minecraft Mod
+# ExRollerCoaster Mod for 1.12.2
 
 ![Minecraft version 1.12.2](https://img.shields.io/badge/mc%20version-1.12.2-brightgreen.svg)
 
